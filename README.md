@@ -18,7 +18,21 @@ Comamonas odontotermitis | 310.820 | 24.162.255 | 678.796
 Comamonas serinivorans | 518.675 | 22.614.565 | 1.146.529
 Comamonas thiooxydans | 940.260 | 28.100.510 | 2.048.904
 
+## Ассоциация Z-DNA с промотерами генов
+Comamonas koreensis (ASM1407649v1)
+![](https://user-images.githubusercontent.com/59825228/173324296-026625ed-deb5-4434-b631-1ce3b0a901e0.png)
+Comamonas aquatica (ASM1806420v1)
+![](https://user-images.githubusercontent.com/59825228/173324349-3e58ef7f-57ae-4f7d-871d-101ff2b0707f.png)
+Comamonas odontotermitis (ASM2008004v1)
+![](https://user-images.githubusercontent.com/59825228/173324396-10c8b95f-8128-4450-9591-fb7d1b0d8c72.png)
+Comamonas thiooxydans (ASM2088617v1)
+![](https://user-images.githubusercontent.com/59825228/173324452-7641b3c6-ae1b-4b29-8cd1-6e0241fba0cb.png)
+Comamonas serinivorans (ASM215886v1)
+![](https://user-images.githubusercontent.com/59825228/173324503-6ae93220-aa56-4589-9710-60bc387c8f6d.png)
+
 ## Гомологичные кластеры
 Всего было выделено 4459 кластеров. Гистограмма распределения количеество включенных в кластер генов приведена ниже
 ![](https://user-images.githubusercontent.com/59825228/173247457-0faeb2ed-99d1-4d99-85dc-25804e67f814.png)
+
+## Выбранные кластеры
 
