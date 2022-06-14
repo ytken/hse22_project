@@ -59,5 +59,13 @@ Comamonas serinivorans (ASM215886v1)
 ![Снимок экрана (30)](https://user-images.githubusercontent.com/59825228/173671654-3d858452-cb86-40e5-acca-ba203875e2e1.png)
 ### Кластер 5
 ![Снимок экрана (31)](https://user-images.githubusercontent.com/59825228/173671682-05dd6393-b3b8-4954-af57-15c13d2172f1.png)
-
-## Визуализация расположения участков Z-DNA для кластеров
+### Кластер 6
+![Снимок экрана (32)](https://user-images.githubusercontent.com/59825228/173674829-cc2c2424-91c7-48a6-9f5e-2a9f41b381f8.png)
+### Кластер 7
+![Снимок экрана (33)](https://user-images.githubusercontent.com/59825228/173674954-aa2b8ba8-8eef-4176-98fb-de5bdd362072.png)
+### Кластер 8
+![Снимок экрана (33)](https://user-images.githubusercontent.com/59825228/173675374-a4274f77-b68b-45d1-aa5f-daeaf6d33775.png)
+### Кластер 9
+![Снимок экрана (32)](https://user-images.githubusercontent.com/59825228/173675076-3451b20f-b726-413b-b75d-3fc3aa6b8deb.png)
+### Кластер 10
+![Снимок экрана (32)](https://user-images.githubusercontent.com/59825228/173675187-d7112b6e-b183-4d58-b827-a00f69cdca25.png)
