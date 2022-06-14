@@ -35,4 +35,15 @@ Comamonas serinivorans (ASM215886v1)
 ![](https://user-images.githubusercontent.com/59825228/173247457-0faeb2ed-99d1-4d99-85dc-25804e67f814.png)
 
 ## Выбранные кластеры
-
+Номер | Кол-во генов | Функция генов | Расположение Z-DNA относительно этих генов | Z-DNA score
+--- | --- | --- | --- | ---
+1 | 5 | pyridoxine 5'-phosphate synthase ||
+2 | 5 | HAMP domain-containing histidine kinase / ATP-binding protein ||
+3 | 5 | SDR family oxidoreductase ||
+4 | 5 | urease accessory protein UreE ||
+5 | 5 | beta-N-acetylhexosaminidase ||
+6 | 5 | ATP-binding protein / PAS domain-containing sensor histidine kinase ||
+7 | 5 | glutamate-1-semialdehyde 2,1-aminomutase ||
+8 | 5 | 50S ribosomal protein L9 ||
+9 | 5 | glycerol-3-phosphate 1-O-acyltransferase PlsY ||
+10 | 5 | DNA-directed RNA polymerase subunit omega ||
