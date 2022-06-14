@@ -37,7 +37,7 @@ Comamonas serinivorans (ASM215886v1)
 
 ## Выбранные кластеры
 Номер | Кол-во генов | Функция генов | Количество участков Z-DNA
---- | --- | --- | --- | ---
+--- | --- | --- | --- 
 1 | 5 | pyridoxine 5'-phosphate synthase | 35
 2 | 5 | HAMP domain-containing histidine kinase / ATP-binding protein | 32
 3 | 5 | SDR family oxidoreductase | 25
