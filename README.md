@@ -47,3 +47,17 @@ Comamonas serinivorans (ASM215886v1)
 8 | 5 | 50S ribosomal protein L9 ||
 9 | 5 | glycerol-3-phosphate 1-O-acyltransferase PlsY ||
 10 | 5 | DNA-directed RNA polymerase subunit omega ||
+
+## Множественное белковое выравнивание
+### Кластер 1
+![Снимок экрана (27)](https://user-images.githubusercontent.com/59825228/173671568-ef9a1ec9-667f-49f6-9978-0a794918f82c.png)
+### Кластер 2
+![Снимок экрана (28)](https://user-images.githubusercontent.com/59825228/173671603-0ce57472-11be-4eb1-8812-efff068b6c32.png)
+### Кластер 3
+![Снимок экрана (29)](https://user-images.githubusercontent.com/59825228/173671637-4995303f-e136-485f-8d56-1112a80022c5.png)
+### Кластер 4
+![Снимок экрана (30)](https://user-images.githubusercontent.com/59825228/173671654-3d858452-cb86-40e5-acca-ba203875e2e1.png)
+### Кластер 5
+![Снимок экрана (31)](https://user-images.githubusercontent.com/59825228/173671682-05dd6393-b3b8-4954-af57-15c13d2172f1.png)
+
+## Визуализация расположения участков Z-DNA для кластеров
